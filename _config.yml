@@ -33,5 +33,9 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+repository:			htw6174/htw6174.github.io
 github:
   repo:             https://github.com/fongandrew/hydeout
+
+# Build Settings
+destination: ../htw6174.github.io_TESTBUILD
