@@ -18,7 +18,7 @@ excerpt_separator:  <!--more--> #use to keep whole post on the front page
 To make pages show up in the sidebar, add `sidebar_link: true` to the front
 matter.
 
-You can make [Links](www.google.com)
+You can make [Links](https://www.google.com)
 
 *italics* and **bold**
 
