@@ -2,10 +2,13 @@
 layout: post #category, default, index, page, post, search, tags
 title: "Template"
 categories:
-  - List some!
+  - List of categories
+  - More categories!
 tags:
-  - List some!
+  - List of tags
+  - More tags!
 sidebar_link: false
+excerpt_separator:  <!--more--> #use to keep whole post on the front page
 ---
 
 <p class="message">
@@ -15,7 +18,7 @@ sidebar_link: false
 To make pages show up in the sidebar, add `sidebar_link: true` to the front
 matter.
 
-You can make [Links](www.google.com)
+You can make [Links](https://www.google.com)
 
 *italics* and **bold**
 
